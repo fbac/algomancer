@@ -1,2 +1,3 @@
-# algomancer
+# Algomancer
+
 Algorithms and complexity.
